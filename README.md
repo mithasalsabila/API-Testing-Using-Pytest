@@ -1,4 +1,4 @@
-# API-Testing-Using-Pytest
+# API-Testing-Using-Python
 
 Project ini berisi code API testing meliputi metode GET, PUT, POST, dan DELETE menggunakan website (https://reqres.in/).
 Terdapat 2 jenis file:
