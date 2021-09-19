@@ -12,10 +12,7 @@ VS Code
 Python 3.9.7
 
 **Library :**
-1. Requests
-   $ pip install requests
-2. Pytest
-   $ pip install pytest
-3. JSON
-   $ pip install jsonpath
+1. Requests: $ pip install requests
+2. Pytest: $ pip install pytest
+3. JSON: $ pip install jsonpath
 
